@@ -8,5 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="APLab2" level="project" />
+    <orderEntry type="library" name="opencsv-5.4" level="project" />
+    <orderEntry type="library" name="sinbad" level="project" />
   </component>
 </module>
